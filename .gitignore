@@ -1,0 +1,9 @@
+/.project
+*.pyc
+*.json
+*.log
+*.tsv
+.idea
+*.swp
+*.txt
+*.mp4
